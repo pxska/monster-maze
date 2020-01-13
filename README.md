@@ -1,5 +1,7 @@
-# monster-maze
+# Monster Maze
 A Python game
+
+### NB! The game requires PyGame and EasyGUI.
 
 This was a project I created as the project for my Python class. The project had two separate versions -
 the first version was a number-guessing game and the second version was the maze game. I put those two
