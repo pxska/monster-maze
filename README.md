@@ -12,3 +12,5 @@ then the game ends.
 
 I can see how this could be developed even further, for example, creating more monsters with different abilities,
 classes and such as well as implementing a life-based system. I could also make the maze more difficult and such. 
+
+[https://imgur.com/iqQ6vbP](Image of the game)
