@@ -1,7 +1,7 @@
 # Monster Maze
 A Python game
 
-![](https://imgur.com/iqQ6vbP)
+![](https://i.imgur.com/iqQ6vbP.png)
 
 ### NB! The game requires PyGame and EasyGUI.
 
