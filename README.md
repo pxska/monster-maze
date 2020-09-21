@@ -1,6 +1,8 @@
 # Monster Maze
 A Python game
 
+![](https://imgur.com/iqQ6vbP)
+
 ### NB! The game requires PyGame and EasyGUI.
 
 This was a project I created as the project for my Python class. The project had two separate versions -
@@ -13,4 +15,3 @@ then the game ends.
 I can see how this could be developed even further, for example, creating more monsters with different abilities,
 classes and such as well as implementing a life-based system. I could also make the maze more difficult and such. 
 
-[https://imgur.com/iqQ6vbP](Image of the game)
